@@ -12,7 +12,7 @@ Over the years, I have worked both independently and as a team player in Agile o
 
 **Building Electron Desktop Applications with:**
 
-<a href="https://www.electronjs.org/" width="40px" title="Electron"><img src="icons/mine/electron.svg" /></a>
+<a href="https://www.electronjs.org/" width="40px" title="Electron"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>
 <a href="https://reactjs.org/" width="40" title="React"><img src="icons/mine/react.svg" /></a>
 <a href="https://nextjs.org/" width="40" title="NextJS"><img src="icons/mine/nextjs.svg" /></a>
 <a href="https://tailwindcss.com/" width="40" title="TailwindCSS"><img src="icons/mine/tailwind.svg" /></a>
