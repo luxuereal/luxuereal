@@ -12,12 +12,12 @@ Over the years, I have worked both independently and as a team player in Agile o
 
 **Building Electron Desktop Applications with:**
 
-<a href="https://www.electronjs.org/" width="20" title="Electron"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>
-<a href="https://reactjs.org/" width="20" title="React"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
-<a href="https://nextjs.org/" width="20" title="NextJS"><img src="icons/mine/nextjs.svg" /></a>
-<a href="https://tailwindcss.com/" width="20" title="TailwindCSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
-<a href="https://www.typescriptlang.org/" width="20" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>
-<a href="https://www.javascript.com/" width="20" title="JavaScript"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /></a>
+<a href="https://www.electronjs.org/" width="10" title="Electron"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>
+<a href="https://reactjs.org/" width="10" title="React"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
+<a href="https://nextjs.org/" width="10" title="NextJS"><img src="icons/mine/nextjs.svg" /></a>
+<a href="https://tailwindcss.com/" width="10" title="TailwindCSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
+<a href="https://www.typescriptlang.org/" width="10" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>
+<a href="https://www.javascript.com/" width="10" title="JavaScript"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /></a>
 
 **Learning:**
 
