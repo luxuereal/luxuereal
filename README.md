@@ -2,7 +2,7 @@
 
 <!-- <img src="images/me.jpg" align="right" /> -->
 
-Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer 
+<b>Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer</b>
 
 I am a Full-stack Javascript developer whom you'll find to have proven track record in developing small-scale to huge applications and websites for different industries including EdTech, FinTech, Blockchain, Recruitment & Jobs, Travel and Hospitality, and E-Commerce. 
 
