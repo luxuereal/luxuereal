@@ -10,34 +10,14 @@ Over the years, I have worked both independently and as a team player in Agile o
 
 ---
 
-**Social Media:**
+**Building Electron Desktop Applications with:**
 
-[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
-
-**Currently working with:**
-
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+<a href="https://www.electronjs.org/" title="Electron"><img src="icons/mine/electron.svg" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/mine/react.svg" /></a>
+<a href="https://nextjs.org/" title="NextJS"><img src="icons/mine/nextjs.svg" /></a>
+<a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/mine/tailwind.svg" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/mine/typescript.svg" /></a>
+<a href="https://www.javascript.com/" title="JavaScript"><img src="icons/mine/javascript.svg" /></a>
 
 **Learning:**
 
@@ -63,4 +43,12 @@ Over the years, I have worked both independently and as a team player in Agile o
 - [db-docker](https://github.com/axelerant/db-docker)
 - [drupalqa](https://github.com/hussainweb/drupalqa)
 
-[How did I build this?](https://youtu.be/UqNbBe3lVCI)
+**Contact:**
+
+[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
+[![GitHub](icons/github.png)](https://github.com/hussainweb)
+[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
+[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
+[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
