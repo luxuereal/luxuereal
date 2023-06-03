@@ -1,10 +1,12 @@
 # hussainweb
 
-<img src="images/me.jpg" align="right" />
+<!-- <img src="images/me.jpg" align="right" /> -->
 
-I'm Hussain Abbas and I go by `hussainweb` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
+Dev Rabbit:  Full-stack stack Developer | Frontend Developer | ElectronJS Developer 
 
-I work at [Axelerant](https://axelerant.com) and contribute to open source software (mostly Drupal) as part of my work and out of my own interest. I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about me.
+I am a Full-stack Javascript developer whom you'll find to have proven track record in developing small-scale to huge applications and websites for different industries including EdTech, FinTech, Blockchain, Recruitment & Jobs, Travel and Hospitality, and E-Commerce. 
+
+Over the years, I have worked both independently and as a team player in Agile on multiple projects seeing them through to the end during the complete development lifecycle (SDLC). 
 
 ---
 
