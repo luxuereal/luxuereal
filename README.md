@@ -15,10 +15,10 @@ Over the years, I have worked both independently and as a team player in Agile o
 
 <a href="https://www.electronjs.org/" width="4" title="Electron"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>
 <a href="https://reactjs.org/" width="4" title="React"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
-<a href="https://nextjs.org/" width="4" title="NextJS"><img width="4" src="icons/mine/nextjs.svg" /></a>
+<a href="https://nextjs.org/" width="4" title="NextJS"><img width="64" src="icons/mine/nextjs.svg" /></a>
 <a href="https://tailwindcss.com/" width="4" title="TailwindCSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
 <a href="https://www.typescriptlang.org/" width="4" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>
-<a href="https://www.javascript.com/" width="4" title="JavaScript"><img width="4" src="icons/mine/javascript-icon.svg" /></a>
+<a href="https://www.javascript.com/" width="4" title="JavaScript"><img width="64" src="icons/mine/javascript1.svg" /></a>
 
 **Learning:**
 
