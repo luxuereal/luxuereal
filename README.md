@@ -3,17 +3,18 @@
 <!-- <img src="images/me.jpg" align="right" /> -->
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-<b>Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer</b>
+<b style="font-size: 40px">Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer</b>
 
-I am a Full-stack Javascript developer whom you'll find to have proven track record in developing small-scale to huge applications and websites for different industries including EdTech, FinTech, Blockchain, Recruitment & Jobs, Travel and Hospitality, and E-Commerce. 
+&nbsp;&nbsp;I am a Full-stack Javascript developer whom you'll find to have proven track record in developing small-scale to huge applications and websites for different industries including EdTech, FinTech, Blockchain, Recruitment & Jobs, Travel and Hospitality, and E-Commerce. 
 
-Over the years, I have worked both independently and as a team player in Agile on multiple projects seeing them through to the end during the complete development lifecycle (SDLC). 
+&nbsp;&nbsp;Over the years, I have worked both independently and as a team player in Agile on multiple projects seeing them through to the end during the complete development lifecycle (SDLC). 
 
 
 ---
 
 **Frontend Development Skills:**
 
+<div style="line-height: 80px">
 <a href="https://html5book/" width="4" title="HTML5"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://htmlbook/" width="4" title="CSS3"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" width="4" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>&nbsp;&nbsp;
@@ -32,6 +33,7 @@ Over the years, I have worked both independently and as a team player in Agile o
 <a href="https://mui.com/" width="4" title="MUI"><img width="64" src="icons/mine/material-ui.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.framer.com/" width="4" title="Framer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://github.com/" title="git"><img width="64" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+</div>
 
 
 **Backend Development Skills:**
