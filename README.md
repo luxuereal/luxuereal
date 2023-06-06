@@ -16,7 +16,7 @@
 
 **Frontend Development Skills:**
 
-<div style="line-height: 80px">
+<div style="padding-botton: 20px">
 <a href="https://html5book/" width="4" title="HTML5"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://htmlbook/" width="4" title="CSS3"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" width="4" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>&nbsp;&nbsp;
