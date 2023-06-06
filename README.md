@@ -3,7 +3,7 @@
 <!-- <img src="images/me.jpg" align="right" /> -->
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-<b style="font-size: 40px">Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer</b>
+## Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer
 
 &nbsp;&nbsp;I am a Full-stack Javascript developer whom you'll find to have proven track record in developing small-scale to huge applications and websites for different industries including EdTech, FinTech, Blockchain, Recruitment & Jobs, Travel and Hospitality, and E-Commerce. 
 
@@ -14,7 +14,7 @@
 
 
 
-**Frontend Development Skills:**
+#### **Frontend Development Skills:**
 
 <div style="padding-botton: 20px">
 <a href="https://html5book/" width="4" title="HTML5"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /></a>&nbsp;&nbsp;
@@ -40,7 +40,7 @@
 
 
 
-**Backend Development Skills:**
+#### **Backend Development Skills:**
 
 <a href="https://nodejs.org/" title="NodeJS"><img width="64" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://expressjs.com/" title="ExpressJS"><img width="64" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /></a>&nbsp;&nbsp;
@@ -59,7 +59,7 @@
 
 
 
-**Building Electron Desktop Applications with:**
+#### **Building Electron Desktop Applications with:**
 
 <a href="https://www.electronjs.org/" width="4" title="Electron"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" width="4" title="React"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
