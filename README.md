@@ -3,10 +3,11 @@
 </p>
 <hr>
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Here is Dev Rabbit
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, Here is Dev Rabbit.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer
 
+### 👨🏽‍💻 &nbsp;About Me
 >&nbsp;&nbsp;I am a Full-stack Javascript developer whom you'll find to have proven track record in developing small-scale to huge applications and websites for different industries including EdTech, FinTech, Blockchain, Recruitment & Jobs, Travel and Hospitality, and E-Commerce. 
 >
 >&nbsp;&nbsp;Over the years, I have worked both independently and as a team player in Agile on multiple projects seeing them through to the end during the complete development lifecycle (SDLC). 
@@ -89,4 +90,4 @@
     alt="example" />
 </p>
 
-------
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
