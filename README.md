@@ -1,7 +1,9 @@
-# Dev Rabbit
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
 
-<!-- <img src="images/me.jpg" align="right" /> -->
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Here is Dev Rabbit
 
 ## Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer
 
