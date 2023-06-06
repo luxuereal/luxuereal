@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Here is Dev Rabbit
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Here is Dev Rabbit
 
 ## Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer
 
