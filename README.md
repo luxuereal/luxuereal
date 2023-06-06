@@ -75,8 +75,9 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bravedevrabbit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=bravedevrabbit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravedevrabbit&hide_border=true&layout=compact" align="center" /></div>  
+
 </div>
 
 ----
