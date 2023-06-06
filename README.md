@@ -6,7 +6,7 @@
 ## Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer
 
 >&nbsp;&nbsp;I am a Full-stack Javascript developer whom you'll find to have proven track record in developing small-scale to huge applications and websites for different industries including EdTech, FinTech, Blockchain, Recruitment & Jobs, Travel and Hospitality, and E-Commerce. 
-
+>
 >&nbsp;&nbsp;Over the years, I have worked both independently and as a team player in Agile on multiple projects seeing them through to the end during the complete development lifecycle (SDLC). 
 
 
@@ -14,7 +14,7 @@
 
 
 
-#### **Frontend Development Skills:**
+#### Frontend Development Skills:
 
 <div style="padding-botton: 20px">
 <a href="https://html5book/" width="4" title="HTML5"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /></a>&nbsp;&nbsp;
@@ -38,9 +38,9 @@
 </div>
 
 
+<br>
 
-
-#### **Backend Development Skills:**
+#### Backend Development Skills:
 
 <a href="https://nodejs.org/" title="NodeJS"><img width="64" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://expressjs.com/" title="ExpressJS"><img width="64" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /></a>&nbsp;&nbsp;
@@ -57,9 +57,10 @@
 <a href="https://github.com/" title="git"><img width="64" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 
 
+<br>
 
 
-#### **Building Electron Desktop Applications with:**
+#### Building Electron Desktop Applications with:
 
 <a href="https://www.electronjs.org/" width="4" title="Electron"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" width="4" title="React"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
