@@ -12,7 +12,7 @@
 
 ---
 
-
+<br>
 
 #### Frontend Development Skills:
 
@@ -58,7 +58,6 @@
 
 
 <br>
-
 
 #### Building Electron Desktop Applications with:
 
