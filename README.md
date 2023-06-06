@@ -12,6 +12,8 @@
 
 ---
 
+
+
 **Frontend Development Skills:**
 
 <div style="line-height: 80px">
@@ -36,6 +38,8 @@
 </div>
 
 
+
+
 **Backend Development Skills:**
 
 <a href="https://nodejs.org/" title="NodeJS"><img width="64" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>&nbsp;&nbsp;
@@ -51,6 +55,8 @@
 <a href="https://socket.io/" title="SocketIO"><img width="64" src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://aws.amazon.com/" title="AWS"><img width="64" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://github.com/" title="git"><img width="64" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+
+
 
 
 **Building Electron Desktop Applications with:**
