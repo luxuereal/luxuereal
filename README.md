@@ -76,12 +76,15 @@
   <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=bravedevrabbit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bravedevrabbit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bravedevrabbit&locale=en&hide_title=false&layout=compact&card_width=240&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
 </div>
 
 ----
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 ------
