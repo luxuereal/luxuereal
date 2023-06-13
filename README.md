@@ -9,7 +9,7 @@
 
 ### 👨🏽‍💻 &nbsp;About Me
 >&nbsp;&nbsp;From full stack web development to cross-platform desktop applications, I will deliver an application from start to finish, or bring your existing website/application up to date. I deliver on time, and to spec with communication being key. You ask, "why should I choose you for my project?" 
-
+>
 >&nbsp;&nbsp;✅ I work with clients with the intention on having you want to work with me in the future. 
 >
 >&nbsp;&nbsp;✅ This means that I go above and beyond when I sign on to your project. 
