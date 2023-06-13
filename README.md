@@ -8,9 +8,14 @@
 ## Experienced Full-stack stack Developer | Frontend Developer | ElectronJS Developer
 
 ### 👨🏽‍💻 &nbsp;About Me
->&nbsp;&nbsp;I am a Full-stack Javascript developer whom you'll find to have proven track record in developing small-scale to huge applications and websites for different industries including EdTech, FinTech, Blockchain, Recruitment & Jobs, Travel and Hospitality, and E-Commerce. 
->
->&nbsp;&nbsp;Over the years, I have worked both independently and as a team player in Agile on multiple projects seeing them through to the end during the complete development lifecycle (SDLC). 
+>&nbsp;&nbsp;From full stack web development to cross-platform desktop applications, I will deliver an application from start to finish, or bring your existing website/application up to date. I deliver on time, and to spec with communication being key. You ask, "why should I choose you for my project?" 
+
+>&nbsp;&nbsp;✅ I work with clients with the intention on having you want to work with me in the future. >
+>&nbsp;&nbsp;✅ This means that I go above and beyond when I sign on to your project. 
+>&nbsp;&nbsp;✅ I primarily work with clients in or near my timezone because communication is important to me. 
+>&nbsp;&nbsp;✅ What this means is, you will be included in every part of the process, ensuring your satisfaction. 
+>&nbsp;&nbsp;✅ If you aren't tech-oriented, that's okay! I can speak your language, and together we can make sure you get the finished product that you deserve.  
+
 
 
 ---
