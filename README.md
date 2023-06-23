@@ -47,6 +47,8 @@
 <a href="https://sass-lang.com/" width="4" title="Sass"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://mui.com/" width="4" title="MUI"><img width="64" src="icons/mine/material-ui.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.framer.com/" width="4" title="Framer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://firebase.google.com/" title="Firebase"><img width="64" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://supabase.com/" width="4" title="Supabase"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://github.com/" title="git"><img width="64" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 </div>
 
@@ -72,7 +74,26 @@
 
 <br>
 
-#### Building Electron Desktop Applications with:
+#### Mobile App Development Skills:
+
+<a href="https://www.apple.com/" title="Apple"><img width="64" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://developer.android.com/" title="Android"><img width="64" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://developer.apple.com/" title="XCode"><img width="64" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://reactnative.dev/" title="React Native"><img width="64" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://developer.apple.com/" title="Swift"><img width="64" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://ionicframework.com/" title="Ionic"><img width="64" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://flutter.dev/" title="Flutter"><img width="64" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://kotlin.org/" title="Kotlin"><img width="64" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.java.com/" title="Java"><img width="64" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://developer.apple.com/" title="Objective-C"><img width="64" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://firebase.google.com/" title="Firebase"><img width="64" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://supabase.com/" title="Supabase"><img width="64" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://github.com/" title="git"><img width="64" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+
+
+<br>
+
+#### Electron Desktop App Development Skills:
 
 <a href="https://www.electronjs.org/" width="4" title="Electron"><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" width="4" title="React"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
