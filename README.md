@@ -30,25 +30,25 @@
 #### Frontend Development Skills:
 
 <div style="padding-botton: 20px">
-<a href="https://html5book/" width="4" title="HTML5"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://htmlbook/" width="4" title="CSS3"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" width="4" title="TypeScript"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.javascript.com/" width="4" title="JavaScript"><img height="40" width="52" src="icons/mine/javascript1.svg" /></a>&nbsp;&nbsp;
-<a href="https://reactjs.org/" width="4" title="React"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/" width="4" title="NextJS"><img height="40" width="52" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.gatsbyjs.com/" width="4" title="Gatsby"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" /></a>
-<a href="https://reduxjs.org/" width="4" title="MUI"><img height="40" width="52" src="icons/mine/redux.svg" /></a>&nbsp;&nbsp;
-<a href="https://redis.io/" width="4" title="redis"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://vuejs.org/" width="4" title="Vue"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://nuxt.com/" width="4" title="Nuxt"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://graphql.org/" width="4" title="GraphQL"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com/" width="4" title="Sass"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" width="4" title="TailwindCSS"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://sass-lang.com/" width="4" title="Sass"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://mui.com/" width="4" title="MUI"><img height="40" width="52" src="icons/mine/material-ui.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.framer.com/" width="4" title="Framer"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://html5book/" title="HTML5"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://htmlbook/" title="CSS3"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.javascript.com/" title="JavaScript"><img height="40" width="52" src="icons/mine/javascript1.svg" /></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" title="React"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://nextjs.org/" title="NextJS"><img height="40" width="52" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.gatsbyjs.com/" title="Gatsby"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" /></a>
+<a href="https://reduxjs.org/" title="MUI"><img height="40" width="52" src="icons/mine/redux.svg" /></a>&nbsp;&nbsp;
+<a href="https://redis.io/" title="redis"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://vuejs.org/" title="Vue"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://nuxt.com/" title="Nuxt"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://graphql.org/" title="GraphQL"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" title="Sass"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" title="TailwindCSS"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://sass-lang.com/" title="Sass"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://mui.com/" title="MUI"><img height="40" width="52" src="icons/mine/material-ui.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.framer.com/" title="Framer"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://firebase.google.com/" title="Firebase"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://supabase.com/" width="4" title="Supabase"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://supabase.com/" title="Supabase"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://github.com/" title="git"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 </div>
 
@@ -95,12 +95,12 @@
 
 #### Electron Desktop App Development Skills:
 
-<a href="https://www.electronjs.org/" width="4" title="Electron"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://reactjs.org/" width="4" title="React"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/" width="4" title="NextJS"><img height="40" width="52" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" width="4" title="TypeScript"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.javascript.com/" width="4" title="JavaScript"><img height="40" width="52" src="icons/mine/javascript1.svg" /></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" width="4" title="TailwindCSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.electronjs.org/" title="Electron"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" title="React"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://nextjs.org/" title="NextJS"><img height="40" width="52" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.javascript.com/" title="JavaScript"><img height="40" width="52" src="icons/mine/javascript1.svg" /></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" title="TailwindCSS"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://github.com/" title="git"><img height="40" width="52" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 
 
