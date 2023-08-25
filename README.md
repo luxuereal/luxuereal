@@ -66,7 +66,7 @@
 <a href="https://socket.io/" title="SocketIO"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://aws.amazon.com/" title="AWS"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://github.com/" title="git"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
-<a href="https://dotnet.microsoft.com/" title="git"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+<a href="https://dotnet.microsoft.com/" title="git"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" /></a>
 
 
 <br>
