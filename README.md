@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, Here is Deverabit.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Experienced Full-stack Web | Mobile | Electron Application Developer
+## Experienced Full-stack <b>Web</b> | Mobile | Electron Application Developer
 
 ### 👨🏽‍💻 &nbsp;About Me
 
