@@ -74,8 +74,7 @@
 <a href="https://kotlin.org/" title="Kotlin"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.java.com/" title="Java"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://firebase.google.com/" title="Firebase"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://supabase.com/" title="Supabase"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://github.com/" title="git"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+<a href="https://supabase.com/" title="Supabase"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" /></a>
 
 
 <br>
