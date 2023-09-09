@@ -21,7 +21,9 @@
 
 ---
 <br>
+
 #### Frontend Development Skills:
+
 <div style="padding-bottom: 20px">
 <a href="https://reactjs.org/" title="React"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/" title="NextJS"><img height="32" width="32" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
