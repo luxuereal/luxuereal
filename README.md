@@ -79,7 +79,7 @@
 
 <br>
 
-#### Electron Desktop App Development Skills:
+#### Desktop App Development Skills:
 
 <a href="https://www.electronjs.org/" title="Electron"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" title="React"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
