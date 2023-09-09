@@ -23,7 +23,6 @@
 <br>
 
 #### Frontend Development Skills:
-
 <div style="padding-bottom: 20px">
 <a href="https://reactjs.org/" title="React"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/" title="NextJS"><img height="32" width="32" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
@@ -40,6 +39,7 @@
 <a href="https://www.framer.com/" title="Framer"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></a>&nbsp;&nbsp;
 </div>
 <br>
+
 #### Backend Development Skills:
 <a href="https://nodejs.org/" title="NodeJS"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://expressjs.com/" title="ExpressJS"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /></a>&nbsp;&nbsp;
@@ -53,6 +53,7 @@
 <a href="https://aws.amazon.com/" title="AWS"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/" title="dotnet"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" /></a>
 <br>
+
 #### Mobile App Development Skills:
 <a href="https://www.apple.com/" title="Apple"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://developer.android.com/" title="Android"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /></a>&nbsp;&nbsp;
@@ -65,6 +66,7 @@
 <a href="https://firebase.google.com/" title="Firebase"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://supabase.com/" title="Supabase"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" /></a>
 <br>
+
 #### Desktop App Development Skills:
 <a href="https://www.electronjs.org/" title="Electron"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" title="React"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
