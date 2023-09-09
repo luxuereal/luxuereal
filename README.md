@@ -23,7 +23,6 @@
 <br>
 
 #### Frontend Development Skills:
-<div style="padding-bottom: 20px">
 <a href="https://reactjs.org/" title="React"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/" title="NextJS"><img height="32" width="32" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.gatsbyjs.com/" title="Gatsby"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" /></a>&nbsp;&nbsp;
@@ -37,7 +36,6 @@
 <a href="https://sass-lang.com/" title="Sass"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://mui.com/" title="MUI"><img height="32" width="32" src="icons/mine/material-ui.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.framer.com/" title="Framer"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></a>&nbsp;&nbsp;
-</div>
 <br>
 
 #### Backend Development Skills:
