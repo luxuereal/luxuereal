@@ -28,8 +28,8 @@
 <div style="padding-bottom: 20px">
 <a href="https://reactjs.org/" title="React"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/" title="NextJS"><img height="32" width="32" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.gatsbyjs.com/" title="Gatsby"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" /></a>
-<a href="https://reduxjs.org/" title="MUI"><img height="32" width="32" src="icons/mine/redux.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.gatsbyjs.com/" title="Gatsby"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://reduxjs.org/" title="redux"><img height="32" width="32" src="icons/mine/redux.svg" /></a>&nbsp;&nbsp;
 <a href="https://vuejs.org/" title="Vue"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://nuxt.com/" title="Nuxt"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>&nbsp;&nbsp;
@@ -39,8 +39,6 @@
 <a href="https://sass-lang.com/" title="Sass"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://mui.com/" title="MUI"><img height="32" width="32" src="icons/mine/material-ui.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.framer.com/" title="Framer"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://firebase.google.com/" title="Firebase"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://supabase.com/" title="Supabase"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" /></a>&nbsp;&nbsp;
 </div>
 
 
