@@ -15,10 +15,11 @@
 >
 >&nbsp;&nbsp;✅ What this means is, you will be included in every part of the process, ensuring your satisfaction. 
 >
->&nbsp;&nbsp;✅ If you aren't tech-oriented, that's okay! I can speak your language, and together we can make sure you get the finished product that you deserve.  
+>&nbsp;&nbsp;✅ If you aren't tech-oriented, that's okay! I can speak your language, and together we can make sure you get the finished product that you deserve.
 
+<br>
 
-##My Core Skills:
+#### My Core Skills:
 
 |   Frontend Skills           |Backend Skills                  |
 |----------------|-------------------------------|
