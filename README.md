@@ -23,13 +23,13 @@
 
 |   Frontend Skills           |Backend Skills                  |
 |----------------|-------------------------------|
-|[![My Skills](https://skillicons.dev/icons?i=react,next,gatsby,vue,nuxt,svelte,typescript,redux,jquery,graphql,webpack,tailwind,bootstrap,materialui,sass,threejs&theme=light&perline=8)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,flask,laravel,dotnet,go,aws,azure,sequelize,mysql,mongo,postgresql,firebase,supabase&theme=light&perline=8)](https://skillicons.dev)          |
+|[![My Skills](https://skillicons.dev/icons?i=react,next,gatsby,vue,nuxt,svelte,typescript,redux,jquery,graphql,webpack,tailwind,bootstrap,materialui,sass,threejs&theme=dark&perline=8)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,flask,laravel,dotnet,go,aws,azure,sequelize,mysql,mongo,postgresql,firebase,supabase&theme=dark&perline=8)](https://skillicons.dev)          |
 
 <br>
 
 |   Mobile App Skills            |Desktop App Skills| Dev Tools |
 |----------------|-------------------------------|---------------|
-|[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,react,java,kotlin&theme=light&perline=5)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=electron,tauri,qt&theme=light&perline=3)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,netlify,vercel,heroku,nginx&theme=light&perline=8)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,react,java,kotlin&theme=dark&perline=5)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=electron,tauri,qt&theme=dark&perline=3)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,netlify,vercel,heroku,nginx&theme=dark&perline=8)](https://skillicons.dev)|
 
 
 ----
