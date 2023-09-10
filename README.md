@@ -23,7 +23,7 @@
 
 |   Frontend             |Backend                       |
 |----------------|-------------------------------|
-|[![My Skills](https://skillicons.dev/icons?i=react,next,gatsby,vue,nuxt,svelte,typescript,redux,jquery,graphql,webpack,vercel,tailwind,bootstrap,materialui,sass,threejs&theme=dark&perline=10)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,flask,laravel,dotnet,sequelize,mysql,mongo,postgresql,firebase,supabase&theme=dark&perline=10)](https://skillicons.dev)    
+|[![My Skills](https://skillicons.dev/icons?i=react,next,gatsby,vue,nuxt,svelte,typescript,redux,jquery,graphql,webpack,vercel,tailwind,bootstrap,materialui,sass,threejs&theme=light&perline=10)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,flask,laravel,dotnet,sequelize,mysql,mongo,postgresql,firebase,supabase&theme=light&perline=10)](https://skillicons.dev)    
 
 
 ----
