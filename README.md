@@ -20,58 +20,10 @@
 
 
 ---
-<br>
 
-#### Frontend Development Skills:
-<a href="https://reactjs.org/" title="React"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/" title="NextJS"><img height="32" width="32" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.gatsbyjs.com/" title="Gatsby"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://reduxjs.org/" title="redux"><img height="32" width="32" src="icons/mine/redux.svg" /></a>&nbsp;&nbsp;
-<a href="https://vuejs.org/" title="Vue"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://nuxt.com/" title="Nuxt"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://graphql.org/" title="GraphQL"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" title="TailwindCSS"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com/" title="Sass"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://sass-lang.com/" title="Sass"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://mui.com/" title="MUI"><img height="32" width="32" src="icons/mine/material-ui.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.framer.com/" title="Framer"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></a>&nbsp;&nbsp;
-<br>
-
-#### Backend Development Skills:
-<a href="https://nodejs.org/" title="NodeJS"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://expressjs.com/" title="ExpressJS"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.djangoproject.com/" title="Django"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.mysql.com/" title="MySQL"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" title="MongoDB"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://sequelize.org/" title="Sequelize"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://nginx.org/" title="NGINX"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.shopify.com/" title="Shopify"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://socket.io/" title="SocketIO"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" title="AWS"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/" title="dotnet"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" /></a>
-<br>
-
-#### Mobile App Development Skills:
-<a href="https://www.apple.com/" title="Apple"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://developer.android.com/" title="Android"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://developer.apple.com/" title="XCode"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://reactnative.dev/" title="React Native"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://developer.apple.com/" title="Swift"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://flutter.dev/" title="Flutter"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://kotlin.org/" title="Kotlin"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.java.com/" title="Java"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://firebase.google.com/" title="Firebase"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://supabase.com/" title="Supabase"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" /></a>
-<br>
-
-#### Desktop App Development Skills:
-<a href="https://www.electronjs.org/" title="Electron"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://reactjs.org/" title="React"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/" title="NextJS"><img height="32" width="32" src="icons/mine/nextjs.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" title="TailwindCSS"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>&nbsp;&nbsp;
-<a href="https://github.com/" title="git"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+|   Frontend             |Backend                       |
+|----------------|-------------------------------|
+|[![My Skills](https://skillicons.dev/icons?i=react,next,gatsby,vue,nuxt,svelte&theme=dark)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=typescript,redux,jquery,graphql,webpack,vercel&theme=dark)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass,threejs&theme=dark)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,flask,laravel,dotnet&theme=dark)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=sequelize,mysql,mongo,postgresql,firebase,supabase&theme=dark)](https://skillicons.dev)  
 
 
 ----
