@@ -31,7 +31,7 @@
 
 |   Mobile App Skills            |Desktop App Skills| Dev Tools |
 |----------------|-------------------------------|---------------|
-|[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,react,java,kotlin&theme=dark&perline=5)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=electron,tauri,qt&theme=dark&perline=3)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,netlify,vercel,heroku,nginx&theme=dark&perline=8)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=flutter,react,java,kotlin,swift&theme=dark&perline=5)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=electron,tauri,qt&theme=dark&perline=3)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,netlify,vercel,heroku,nginx&theme=dark&perline=8)](https://skillicons.dev)|
 
 
 ----
