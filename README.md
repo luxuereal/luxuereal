@@ -3,6 +3,8 @@
 
 ## Experienced Full-stack  **WEB**  |  **MOBILE**  |  **DESKTOP**  Application Developer
 
+<br>
+
 ### 👨 About Me
 
 >&nbsp;&nbsp;From full stack web development to cross-platform desktop applications, I will deliver an application from start to finish, or bring your existing website/application up to date. I deliver on time, and to spec with communication being key. You ask, "why should I choose you for my project?" 
