@@ -34,13 +34,11 @@
 |[![My Skills](https://skillicons.dev/icons?i=flutter,react,java,kotlin,swift&theme=light&perline=5)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=electron,tauri,qt&theme=light&perline=3)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,netlify,vercel,heroku,nginx&theme=light&perline=8)](https://skillicons.dev)|
 
 
-
+<br>
+### My GitHub Stats:
 <div align="center">
-  <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bravedevrabbit&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bravedevrabbit&locale=en&hide_title=false&layout=compact&card_width=232&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=bravedevrabbit&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bravedevrabbit&locale=en&hide_title=false&layout=compact&card_width=232&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 
