@@ -34,7 +34,6 @@
 |[![My Skills](https://skillicons.dev/icons?i=flutter,react,java,kotlin,swift&theme=light&perline=5)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=electron,tauri,qt&theme=light&perline=3)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,netlify,vercel,heroku,nginx&theme=light&perline=8)](https://skillicons.dev)|
 
 
-----
 
 <div align="center">
   <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
@@ -44,11 +43,8 @@
   </div>
 </div>
 
-----
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
