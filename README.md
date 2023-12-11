@@ -23,9 +23,13 @@
 
 ### 💻 My Core Skills:
 
-|   Frontend Skills           |Backend Skills                  |
-|----------------|-------------------------------|
-|[![My Skills](https://skillicons.dev/icons?i=react,next,gatsby,vue,nuxt,svelte,typescript,redux,jquery,graphql,webpack,tailwind,bootstrap,materialui,sass,threejs&theme=light&perline=8)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,flask,laravel,dotnet,go,aws,azure,sequelize,mysql,mongo,postgresql,firebase,supabase&theme=light&perline=8)](https://skillicons.dev)          |
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,laravel,cs,dotnet,go,wordpress,py,rust,solidity&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=next,react,vue,angular,electron,tauri,typescript,tailwind,threejs&theme=light)](https://skillicons.dev) 
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure,sequelize,mysql,mongo,postgresql,firebase,supabase,apollo,redis&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,vercel,netlify,heroku,github,vscode&theme=light)](https://skillicons.dev)
 
 
 ### My GitHub Stats:
