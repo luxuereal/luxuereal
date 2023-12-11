@@ -23,13 +23,31 @@
 
 ### 💻 My Core Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,laravel,cs,dotnet,go,wordpress,py,rust,solidity&theme=light)](https://skillicons.dev)
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,vue,angular,electron,tauri,typescript,tailwind,threejs&theme=light)](https://skillicons.dev) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,,,,nodejs,express,nest,laravel,wordpress,cs,dotnet,go,py,rust,ruby,solidity,,,,&theme=light&perline=20" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,azure,sequelize,mysql,mongo,postgresql,firebase,supabase,apollo,redis&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,,,,,,gcp,azure,sequelize,mysql,mongo,firebase,apollo,redis,,,,,,&theme=light&perline=20" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,vercel,netlify,heroku,github,vscode&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,,,,,next,react,vue,angular,svelte,electron,tauri,typescript,tailwind,threejs,,,,,&theme=light&perline=20" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,,,,,,,docker,aws,vercel,netlify,heroku,github,,,,,,,,&theme=light&perline=20" />
+  </a>
+</p>
 
 
 ### My GitHub Stats:
