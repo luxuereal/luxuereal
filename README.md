@@ -1,7 +1,7 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, Here is Deverabit.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, Here is LUXUEREAL.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Experienced <b>WEB</b>  |  <b>MOBILE</b>  |  <b>DESKTOP</b>  Application Developer</h3>
+<h3 align="center">Experienced <b>WEB FULLSTACK</b> | <b>BLOCKCHAIN</b>   Developer</h3>
 
 <br>
 
@@ -27,14 +27,6 @@
 |----------------|-------------------------------|
 |[![My Skills](https://skillicons.dev/icons?i=react,next,gatsby,vue,nuxt,svelte,typescript,redux,jquery,graphql,webpack,tailwind,bootstrap,materialui,sass,threejs&theme=light&perline=8)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,flask,laravel,dotnet,go,aws,azure,sequelize,mysql,mongo,postgresql,firebase,supabase&theme=light&perline=8)](https://skillicons.dev)          |
 
-<br>
-
-|   Mobile App Skills            |Desktop App Skills| Dev Tools |
-|----------------|-------------------------------|---------------|
-|[![My Skills](https://skillicons.dev/icons?i=flutter,react,java,kotlin,swift&theme=light&perline=5)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=electron,tauri,qt&theme=light&perline=3)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,netlify,vercel,heroku,nginx&theme=light&perline=8)](https://skillicons.dev)|
-
-
-<br>
 
 ### My GitHub Stats:
 
