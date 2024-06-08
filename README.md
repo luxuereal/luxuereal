@@ -27,25 +27,25 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,,,,nodejs,express,nest,laravel,wordpress,cs,dotnet,go,py,rust,ruby,solidity,,,,&theme=light&perline=20" />
+    <img src="https://skillicons.dev/icons?i=,,,,,nodejs,express,laravel,spring,dotnet,go,py,rust,,,,,&theme=light&perline=20" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,,,,,,gcp,azure,sequelize,mysql,mongo,firebase,apollo,redis,,,,,,&theme=light&perline=20" />
+    <img src="https://skillicons.dev/icons?i=,,,,,,sequelize,mysql,mongo,firebase,apollo,redis,,,,,,&theme=light&perline=20" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,,,,,next,react,vue,angular,svelte,electron,tauri,typescript,tailwind,threejs,,,,,&theme=light&perline=20" />
+    <img src="https://skillicons.dev/icons?i=,,,,,,next,react,vue,angular,typescript,tailwind,threejs,,,,,,&theme=light&perline=20" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,,,,,,,docker,aws,vercel,netlify,heroku,github,,,,,,,,&theme=light&perline=20" />
+    <img src="https://skillicons.dev/icons?i=,,,,,,gcp,azure,aws,docker,kubernetes,github,,,,,,&theme=light&perline=20" />
   </a>
 </p>
 
