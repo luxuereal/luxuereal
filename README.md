@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,,,,,,next,react,vue,angular,typescript,tailwind,threejs,,,,,,&theme=light&perline=20" />
+    <img src="https://skillicons.dev/icons?i=,,,,,next,react,vue,angular,electron,typescript,tailwind,threejs,,,,,&theme=light&perline=20" />
   </a>
 </p>
 
